@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2022-04-25T11:19:04.498041",
+    "startedAt": "2022-04-25T11:18:58.584822",
+    "docker": null,
+    "gpu": "GeForce MX350",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\\u884c\u4e00\\AppData\\Roaming\\jupyter\\runtime\\kernel-4bb1985d-58a5-483f-807f-8b52743a8d75.json"
+    ],
+    "state": "running",
+    "program": "DLcode/4_10\u623f\u4ef7\u9884\u6d4b.ipynb",
+    "root": "D:/DLcode",
+    "git": {
+        "remote": "git@github.com:oneline-wsq/dive_DL.git",
+        "commit": "e9ea158a161b3f306aee06d4e4fe31626cd9bfd0"
+    },
+    "email": "2324383336@qq.com",
+    "host": "LAPTOP-4OUJ79SU",
+    "username": "\u884c\u4e00",
+    "executable": "E:\\Anaconda3\\python.exe"
+}
